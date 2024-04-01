@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\matrizelementos\bin\Debug\net8.0\matrizelementos.exe
+C:\Users\gabri\My project\matrizelementos\bin\Debug\net8.0\matrizelementos.deps.json
+C:\Users\gabri\My project\matrizelementos\bin\Debug\net8.0\matrizelementos.runtimeconfig.json
+C:\Users\gabri\My project\matrizelementos\bin\Debug\net8.0\matrizelementos.dll
+C:\Users\gabri\My project\matrizelementos\bin\Debug\net8.0\matrizelementos.pdb
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.AssemblyInfo.cs
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.dll
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\refint\matrizelementos.dll
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.pdb
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\matrizelementos.genruntimeconfig.cache
+C:\Users\gabri\My project\matrizelementos\obj\Debug\net8.0\ref\matrizelementos.dll
